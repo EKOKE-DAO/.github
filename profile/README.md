@@ -15,6 +15,20 @@
 ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+## What is EKOKE
+
+EKOKE is an innovative tool that aims to revolutionize the real estate industry. Here are some key points about EKOKE token:
+
+1. Tokenization of Real Assets: Ekoke token focuses on the tokenization of real assets, allowing digital representation of real estate properties. By doing so, it enables fractional ownership and liquidity in the real estate market.
+2. NFT Market Integration: Ekoke token also contributes to the creation of an NFT (Non-Fungible Token) market dedicated to real estate. NFTs represent unique digital assets and can be linked to specific properties, providing a new way to trade and invest in real estate.
+3. Built on ICP Blockchain: Ekoke token is built on the ICP (Internet Computer Protocol) blockchain, which ensures security, efficiency, and reliability for real estate transactions. The ICP blockchain offers velocity and robust document conservation.
+4. Finite Supply and Deflationary Mechanism:
+5. Ekoke Token has a limited quantity of 8.880.101 pieces, designed to resist inflationary pressures.
+It employs a deflationary economic model, leading to a decrease in circulating supply over time. This scarcity enhances its potential as a defence mechanism against inflation.
+The token’s extended 99-year lifespan adds stability, serving as a long-term hedge against inflation trends.
+Autonomous Governance by DAO: As Ekoke Token evolves, it transitions into an autonomous phase managed by a Decentralized Autonomous Organization (DAO). This decentralized governance structure enhances transparency and resiliency.
+6. Rewards for Digital Property Holders: Ekoke Token serves as a rewarding instrument for holders of digital assets. Investors participating in the Ekoke ecosystem may benefit from its deflationary nature and potential value appreciation over time.
+
 ## Our mission
 
 The Ekoketoken project emerges as the evolutionary response to the traditional real estate landscape, originating from a Milan-based agency's immersion into the realms of blockchain and cryptocurrencies. This innovative venture aspires to redefine real estate transactions by embracing the potential of the Internet Computer (ICP) blockchain.
