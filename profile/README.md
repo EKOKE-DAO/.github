@@ -1,4 +1,4 @@
-# EKOKEToken
+# EKOKE DAO
 
 ## Contact us
 
