@@ -18,30 +18,32 @@
 
 ## What is EKOKE
 
-EKOKE is an innovative tool that aims to revolutionize the real estate industry. Here are some key points about EKOKE token:
+We're revolutionizing home financing by replacing traditional mortgages with a fair, decentralized alternative. Through our Ethereum powered Deferred NFT system, buyers can pay for their homes in manageable installments. Each NFT represents a payment, and once all are completed, ownership of the property is fully transferred. EKOKE DAO empowers members to invest in these NFTs, earning deflationary EKOKE tokens as rewards while supporting buyers with transparent and sustainable interest rates. By fostering community-driven home ownership, we eliminate the burden of excessive mortgage rates and create value for everyone involved. This innovative venture aspires to redefine real estate transactions by embracing the potential of the Ethereum and Internet Computer blockchains.
 
-1. Tokenization of Real Assets: Ekoke token focuses on the tokenization of real assets, allowing digital representation of real estate properties. By doing so, it enables fractional ownership and liquidity in the real estate market.
-2. NFT Market Integration: Ekoke token also contributes to the creation of an NFT (Non-Fungible Token) market dedicated to real estate. NFTs represent unique digital assets and can be linked to specific properties, providing a new way to trade and invest in real estate.
-3. Built on ICP Blockchain: Ekoke token is built on the ICP (Internet Computer Protocol) blockchain, which ensures security, efficiency, and reliability for real estate transactions. The ICP blockchain offers velocity and robust document conservation.
-4. Finite Supply and Deflationary Mechanism:
-5. Ekoke Token has a limited quantity of 8.880.101 pieces, designed to resist inflationary pressures.
-It employs a deflationary economic model, leading to a decrease in circulating supply over time. This scarcity enhances its potential as a defence mechanism against inflation.
-The token’s extended 99-year lifespan adds stability, serving as a long-term hedge against inflation trends.
-Autonomous Governance by DAO: As Ekoke Token evolves, it transitions into an autonomous phase managed by a Decentralized Autonomous Organization (DAO). This decentralized governance structure enhances transparency and resiliency.
-6. Rewards for Digital Property Holders: Ekoke Token serves as a rewarding instrument for holders of digital assets. Investors participating in the Ekoke ecosystem may benefit from its deflationary nature and potential value appreciation over time.
+## Real estate focused
 
-## Our mission
+We're dedicated to making home ownership more accessible and affordable. Our project targets the real-estate market, thanks to our longstanding experience in the field and we believe that we can make a difference in people's lives
 
-The Ekoketoken project emerges as the evolutionary response to the traditional real estate landscape, originating from a Milan-based agency's immersion into the realms of blockchain and cryptocurrencies. This innovative venture aspires to redefine real estate transactions by embracing the potential of the Internet Computer (ICP) blockchain.
+## Installments over mortgages
 
-### Objectives and Vision
+We're replacing traditional mortgages with unsastainable interest rates with a fair, decentralized alternative. Through our Ethereum powered Deferred NFT system, buyers can pay for their homes in manageable installments.
 
-Our primary goal is to introduce a novel approach to real estate transactions by enabling the sale of houses in installments on the ICP blockchain. The vision driving this project is rooted in the desire to streamline and optimize the real estate transaction process. By leveraging blockchain technology, we aim to simplify, economize, and democratize the way properties are bought and sold.
+## Win-Win for Buyers, Sellers and Investors
 
-### Revolutionizing Real Estate
+We're creating a win-win situation for everyone involved.
 
-Ekoketoken stands as a catalyst in revolutionizing the dynamics of real estate transactions. Key features include unprecedented speed, cost-effectiveness, decentralization, security, and confidentiality. By intertwining blockchain and cryptocurrencies with real estate, we embark on a journey to create a paradigm shift, making property transactions more accessible and efficient.
+- Buyers can pay for their homes in manageable installments.
+- Sellers can sell their properties faster.
+- Investors can earn rewards while supporting buyers.
 
-### Main advantages
+## DAO Governance and Community Driven
 
-The advantages offered by Ekoketoken are multifaceted. Real estate transactions conducted on our platform are designed to be faster, more cost-efficient, decentralized to eliminate intermediaries, secure through blockchain's immutable ledger, and confidential to safeguard sensitive information. These transformative elements collectively contribute to a more inclusive and innovative real estate ecosystem.
+Our project is community-driven and decentralized. We're building a DAO that will be governed by the community. We aim to launch the DAO governance on the Internet Computer NNS in order to make it fully decentralized. On the NNS the community will be able to vote to manage real estate agencies, ask for refunds in case of frauds, and much more.
+
+## Web3 and Blockchain Technology
+
+We're embracing the potential of the Ethereum and Internet Computer blockchains. Our project is powered by smart contracts and DAO governance. Even our Website is hosted on the Internet Computer blockchain and it's running in a canister. Our infrastructure is 100% decentralized and censorship-resistant.
+
+## Sustainable, Transparent and Inflation Resistant
+
+Our project is sustainable, transparent and inflation-resistant. We're using a deflationary token model for our EKOKE token. The total supply of EKOKE is fixed and the quantity of tokens given as reward will decrease over time. While the traditional mortgage system that is based on inflation and unsustainable interest rates is unsustainable, EKOKE is based on a deflationary model that will make it more valuable over time.
